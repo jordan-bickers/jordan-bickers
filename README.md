@@ -40,9 +40,9 @@
 
 [2DPlatformer](https://github.com/jordan-bickers/2DPlatformer) - Get ready for some retro-style fun with Gen2DP, a small 2D Platformer game built for our final project at Dev Academy. Built in less than a week our talented team of 4 crated this small but mighty game. Go have a play at <a href="https://play.unity.com/mg/other/gen2dp-ea">Gen2DP</a>
 
-[bottom-text](https://github.com/jordan-bickers/2DPlatformer) - Spice up your social media game with this fun little meme generator! With just a few clicks, you can any text into hilarious and shareable memes. This one day project is easy to use, simply input your top and *bottom text*
+[bottom-text](https://github.com/jordan-bickers/bottom-text) - Spice up your social media game with this fun little meme generator! With just a few clicks, you can any text into hilarious and shareable memes. This one day project is easy to use, simply input your top and *bottom text*
 
-[rubix](https://github.com/jordan-bickers/2DPlatformer) - Whether you're organizing a sports team, planning a group project, or just need to divide a large group into smaller teams, Rubix has got you covered. Rubix makes it easy to create randomized teams time and again!
+[rubix](https://github.com/jordan-bickers/rubix) - Whether you're organizing a sports team, planning a group project, or just need to divide a large group into smaller teams, Rubix has got you covered. Rubix makes it easy to create randomized teams time and again!
 
 [hotml-or-notml](https://github.com/jordan-bickers/hotml-or-notml) - Get ready to settle the ultimate HTML debate with hotml-or-notml! Have some fun voting on your favorite HTML tags and see how they stack up against other popular tags. What are you waiting for? Join the fun and cast your vote now!
   
