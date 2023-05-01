@@ -42,5 +42,9 @@
 
 ![Snake animation](https://github.com/jordan-bickers/jordan-bickers/blob/output/github-contribution-grid-snake.svg)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=100&customColorList=24"/>
+</p>
+
 
 
