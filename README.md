@@ -38,7 +38,7 @@
   A few projects I worked on during my time at Dev:
 </h2>
 
-[2DPlatformer](https://github.com/jordan-bickers/2DPlatformer) - Get ready for some retro-style fun with Gen2DP, a small 2D Platformer game built for our final project at Dev Academy. Built in less than a week our talented team of 4 crated this small but mighty game. Go have a play at <a href="https://play.unity.com/mg/other/gen2dp-ea">Gen2DP</a>
+[2DPlatformer](https://github.com/jordan-bickers/2DPlatformer) - Get ready for some retro-style fun with Gen2DP, a small 2D Platformer game built for our final project at Dev Academy. Built in less than a week our talented team of 4 created this small but mighty game. Go have a play at <a href="https://play.unity.com/mg/other/gen2dp-ea">Gen2DP</a>
 
 [bottom-text](https://github.com/jordan-bickers/bottom-text) - Spice up your social media game with this fun little meme generator! With just a few clicks, you can any text into hilarious and shareable memes. This one day project is easy to use, simply input your top and *bottom text*
 
