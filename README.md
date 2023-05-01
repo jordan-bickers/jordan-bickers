@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Kia Ora!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Kia%20Ora!&animation=fadeIn&type=waving&color=gradient&height=100&customColorList=24"/>
 </p>
 
 I'm Jordan, a passionate Full-Stack Web Developer based in the beautiful city of Wellington, New Zealand.
