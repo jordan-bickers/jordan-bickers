@@ -55,7 +55,7 @@
   <a href="https://www.facebook.com/jordan.bickers.5/"><img height="50" src="https://cdn2.iconfinder.com/data/icons/social-aquiocons/512/Aquicon-Facebook.png"/></a>
 </p>
 
-![Snake animation](https://github.com/jordan-bickers/jordan-bickers/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/jordan-bickers/jordan-bickers/blob/output/github-contribution-grid-snake.svg)-->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=100&customColorList=24"/>
