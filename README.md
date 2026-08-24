@@ -52,9 +52,7 @@
   Let's Connect!
 </h3>
 <p>
-  <a href="https://www.linkedin.com/in/jordan-bickers-184317113/"><img height="50" src="https://cdn2.iconfinder.com/data/icons/social-aquiocons/512/Aquicon-Linkedin.png"/></a> 
-  <a href="https://www.instagram.com/jordan.bickers/?hl=en"><img height="50" src="https://cdn2.iconfinder.com/data/icons/social-aquiocons/512/Aquicon-Instagram.png"/>  </a>
-  <a href="https://www.facebook.com/jordan.bickers.5/"><img height="50" src="https://cdn2.iconfinder.com/data/icons/social-aquiocons/512/Aquicon-Facebook.png"/></a>
+  <a href="https://www.linkedin.com/in/avery-bickers-dev"><img height="50" src="https://cdn2.iconfinder.com/data/icons/social-aquiocons/512/Aquicon-Linkedin.png"/></a> 
 </p>
 
 <!--![Snake animation](https://github.com/jordan-bickers/jordan-bickers/blob/output/github-contribution-grid-snake.svg)-->
