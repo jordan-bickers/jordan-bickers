@@ -5,7 +5,7 @@
   I'm Avery, a passionate Full-Stack Web Developer based in the beautiful city of Wellington, New Zealand.
 </p>
 <p>
-  I am about to complete my bachelors in Computer Science and I have gone through a 17 week coding bootcamp at Dev Academy Aotearoa and gained a NZ certificate in applied software development. This course allowed me to learn and use a number of tools:
+  I am about to complete my Bachelor's in Computer Science and I have gone through a 17 week coding bootcamp at Dev Academy Aotearoa and gained a NZ certificate in applied software development. This course allowed me to learn and use a number of tools:
 </p>
 
 <p>
