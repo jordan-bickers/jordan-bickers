@@ -5,8 +5,21 @@
   I'm Avery, a passionate Full-Stack Web Developer based in the beautiful city of Wellington, New Zealand.
 </p>
 <p>
-  I am about to complete my Bachelor's in Computer Science and I have gone through a 17 week coding bootcamp at Dev Academy Aotearoa and gained a NZ certificate in applied software development. This course allowed me to learn and use a number of tools:
+  I am about to complete my Bachelor's in Computer Science and I have gone through a 17 week coding bootcamp at Dev Academy Aotearoa and gained a NZ certificate in applied software development.
 </p>
+
+<!--
+<p>
+  Currently learning:
+ </p>
+ <p>
+  <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c#"/>
+</p>
+-->
+  
+<h2>
+  A few projects I worked on during my time at Dev and the tools they used:
+</h2>
 
 <p>
   <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vsCode"/>
@@ -23,22 +36,7 @@
   <img src="https://img.shields.io/badge/SQLite3-003B57.svg?style=flat-square&logo=SQLite&logoColor=white" alt="sql3"/>
   <img src="https://img.shields.io/badge/Express-000000.svg?style=flat-square&logo=Express&logoColor=white" alt="express"/>
   <img src="https://img.shields.io/badge/knex-orange?style=flat-square" alt="knex"/>
-
-
 </p>
-
-<!--
-<p>
-  Currently learning:
- </p>
- <p>
-  <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c#"/>
-</p>
--->
-  
-<h2>
-  A few projects I worked on during my time at Dev:
-</h2>
 
 [2DPlatformer](https://github.com/jordan-bickers/generic2d/tree/Dev) - Get ready for some retro-style fun with Gen2DP, a small 2D Platformer game built for our final project at Dev Academy. Built in less than a week our talented team of 4 created this small but mighty game. Go have a play at <a href="https://play.unity.com/mg/other/gen2dp-ea">Gen2DP</a>
 
