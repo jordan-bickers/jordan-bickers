@@ -27,12 +27,14 @@
 
 </p>
 
+<!--
 <p>
   Currently learning:
  </p>
  <p>
   <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c#"/>
 </p>
+-->
   
 <h2>
   A few projects I worked on during my time at Dev:
